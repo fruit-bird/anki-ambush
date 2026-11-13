@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Anki per-user add-on state (written by Anki, holds your saved config)
+meta.json
+
+# Build outputs
+*.ankiaddon
+result
+result-*

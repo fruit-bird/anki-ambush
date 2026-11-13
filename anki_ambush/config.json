@@ -1,0 +1,17 @@
+{
+    "enabled": true,
+    "cards_per_popup": 3,
+    "reviews_only": true,
+    "min_interval_minutes": 20,
+    "max_interval_minutes": 60,
+    "quiet_hours_start": "22:00",
+    "quiet_hours_end": "08:00",
+    "daily_cap": 10,
+    "skip_when_idle_minutes": 5,
+    "backoff_after_dismissals": 3,
+    "backoff_factor": 2,
+    "backoff_max_multiplier": 4,
+    "steal_focus": true,
+    "width": 520,
+    "height": 380
+}
